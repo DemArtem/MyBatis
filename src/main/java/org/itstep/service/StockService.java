@@ -6,9 +6,7 @@ import org.itstep.domain.Stock;
 import org.itstep.domain.Warehouse;
 import org.itstep.repository.StockRepository;
 import org.springframework.stereotype.Service;
-
 import java.util.List;
-
 
 @Service
 @RequiredArgsConstructor
